@@ -1,0 +1,12 @@
+#gif-form {
+    float: right;
+}
+
+body {
+    background-color: rgb(211, 181, 147)
+}
+
+.item {
+    float: left;
+    margin: 10px;
+}
